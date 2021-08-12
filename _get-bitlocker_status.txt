@@ -1,0 +1,1 @@
+ .\Get-ADComputers-BitLockerInfo.ps1 -OU "OU=Bitlocker_TEST,OU=Dallas,OU=Computer Accounts,DC=ais,DC=domain" -LogFilePath "C:\temp" -LogFileName "BitlockerInfo.csv"
